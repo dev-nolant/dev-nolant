@@ -30,7 +30,7 @@
 
 ## About Me
 [![trophy](https://github-profile-trophy.vercel.app/?username=dev-nolant&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-- 21 year old Software Engineering Contractor
+- 22 year old Software Engineering Contractor
 - 👥 Looking to collaborate on projects
 - 🫂 Open for a job/internship
 <details>
