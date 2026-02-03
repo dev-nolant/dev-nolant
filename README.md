@@ -1,5 +1,4 @@
 <h1 align="center">Nolan Taft</h1>
-
 <p align="center">
 Infrastructure Engineer
 </p>
@@ -10,7 +9,7 @@ Infrastructure Engineer
    </a>
 </p>
 
----
+
 
 ## Key Projects
 
