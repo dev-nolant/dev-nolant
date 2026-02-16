@@ -13,6 +13,9 @@ Infrastructure Engineer
 
 ## Key Projects
 
+**[MCP Orchestrator](https://github.com/dev-nolant/MCP-Orchestrator)**  
+Connect MCPs locally (via URL or stdio) and automate actions between them. Chain tools from different MCPs.
+
 **[c-mer](https://github.com/dev-nolant/c-mer)**  
 Contextual Memory Compilation Architecture - Building memory-driven AI systems with Rust
 
